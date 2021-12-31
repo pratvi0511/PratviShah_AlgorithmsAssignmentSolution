@@ -1,7 +1,7 @@
 # PratviShah_AlgorithmsAssignmentSolution
-PART 2
-Marks : 40 
-PROBLEM STATEMENT
+PART 2\
+Marks : 40 \
+PROBLEM STATEMENT\
 You are working as a software engineer in a Financial Company, Stockers.
 Stockers is a leading MNC that specializes in analyzing a company’s shares and consulting 
 investors/traders.
