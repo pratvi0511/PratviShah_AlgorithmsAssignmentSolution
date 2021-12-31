@@ -100,7 +100,7 @@ Exited successfully\
 Explanation: User has given input of only 1 company and its share rose today compared to yesterday as the user has given input true.\
 Hence, Total no of companies whose stock price rose today : 1
 Total no of companies whose stock price declined today : 0\
-################TESTCASE 2
+>TESTCASE 2
 enter the no of companies\
 2\
 Enter current stock price of the company 1\
@@ -136,7 +136,7 @@ Exited successfully\
 Explanation : there is only 1 company among two companies whose stock price rose today (i.e company’s 2 input was true)
 Hence, Total no of companies whose stock price rose today : 1\
  
-##############TESTCASE 3
+>TESTCASE 3
 enter the no of companies\
 3\
 Enter current stock price of the company 1\
@@ -221,7 +221,7 @@ Enter the operation that you want to perform
 -----------------------------------------------
 0\
 Exited successfully\
-#############TESTCASE 4
+>TESTCASE 4
 enter the no of companies\
 1\
 Enter current stock price of the company 1\
