@@ -20,12 +20,12 @@ USER can perform the following operations in the application:
 5. Search a specific stock price //it will only display whether the stock price is present or not.
 Note: The time complexity(average, best, worst) of the sorting function used should not be more than O(nlogn).\
 Consider the following test cases/ sample output\
-TESTCASE 1
-enter the no of companies
-1
-Enter current stock price of the company 1
-112.02
-Whether company's stock price rose today compare to yesterday?
+#TESTCASE 1
+enter the no of companies\
+1\
+Enter current stock price of the company 1\
+112.02\
+Whether company's stock price rose today compare to yesterday?\
 true
 -----------------------------------------------
 Enter the operation that you want to perform
@@ -100,16 +100,16 @@ Exited successfully\
 Explanation: User has given input of only 1 company and its share rose today compared to yesterday as the user has given input true.\
 Hence, Total no of companies whose stock price rose today : 1
 Total no of companies whose stock price declined today : 0
-TESTCASE 2
-enter the no of companies
-2
-Enter current stock price of the company 1
-10.25
-Whether company's stock price rose today compare to yesterday?
-false
-Enter current stock price of the company 2
-200.02
-Whether company's stock price rose today compare to yesterday?
+#TESTCASE 2
+enter the no of companies\
+2\
+Enter current stock price of the company 1\
+10.25\
+Whether company's stock price rose today compare to yesterday?\
+false\
+Enter current stock price of the company 2\
+200.02\
+Whether company's stock price rose today compare to yesterday?\
 true
 -----------------------------------------------
 Enter the operation that you want to perform
@@ -120,7 +120,7 @@ Enter the operation that you want to perform
 5. Search a specific stock price
 6. press 0 to exit
 -----------------------------------------------
-3
+3\
 Total no of companies whose stock price rose today : 1
 -----------------------------------------------
 Enter the operation that you want to perform
@@ -131,26 +131,25 @@ Enter the operation that you want to perform
 5. Search a specific stock price
 6. press 0 to exit
 -----------------------------------------------
-0
-Exited successfully
-Explanation : there is only 1 company among two companies whose stock price rose 
-today (i.e company’s 2 input was true)
+0\
+Exited successfully\
+Explanation : there is only 1 company among two companies whose stock price rose today (i.e company’s 2 input was true)
 Hence, Total no of companies whose stock price rose today : 1
  
-TESTCASE 3
-enter the no of companies
-3
-Enter current stock price of the company 1
-10.25
-Whether company's stock price rose today compare to yesterday?
-false
-Enter current stock price of the company 2
-85.25
-Whether company's stock price rose today compare to yesterday?
-true
-Enter current stock price of the company 3
-52.25
-Whether company's stock price rose today compare to yesterday?
+#TESTCASE 3
+enter the no of companies\
+3\
+Enter current stock price of the company 1\
+10.25\
+Whether company's stock price rose today compare to yesterday?\
+false\
+Enter current stock price of the company 2\
+85.25\
+Whether company's stock price rose today compare to yesterday?\
+true\
+Enter current stock price of the company 3\
+52.25\
+Whether company's stock price rose today compare to yesterday?\
 true
 -----------------------------------------------
 Enter the operation that you want to perform
@@ -161,8 +160,8 @@ Enter the operation that you want to perform
 5. Search a specific stock price
 6. press 0 to exit
 -----------------------------------------------
-1
-Stock prices in ascending order are :
+1\
+Stock prices in ascending order are :\
 10.25 52.25 85.25 
 -----------------------------------------------
 Enter the operation that you want to perform
@@ -173,8 +172,8 @@ Enter the operation that you want to perform
 5. Search a specific stock price
 6. press 0 to exit
 -----------------------------------------------
-2
-Stock prices in descending order are :
+2\
+Stock prices in descending order are :\
 85.25 52.25 10.25 
 -----------------------------------------------
 Enter the operation that you want to perform
@@ -185,7 +184,7 @@ Enter the operation that you want to perform
 5. Search a specific stock price
 6. press 0 to exit
 -----------------------------------------------
-3
+3\
 Total no of companies whose stock price rose today : 2
 -----------------------------------------------
 Enter the operation that you want to perform
@@ -196,7 +195,7 @@ Enter the operation that you want to perform
 5. Search a specific stock price
 6. press 0 to exit
 -----------------------------------------------
-4
+4\
 Total no of companies whose stock price declined today : 1
 -----------------------------------------------
 Enter the operation that you want to perform
@@ -207,9 +206,9 @@ Enter the operation that you want to perform
 5. Search a specific stock price
 6. press 0 to exit
 -----------------------------------------------
-5
-enter the key value
-10.25
+5\
+enter the key value\
+10.25\
 Stock of value 10.25 is present 
 -----------------------------------------------
 Enter the operation that you want to perform
@@ -220,14 +219,14 @@ Enter the operation that you want to perform
 5. Search a specific stock price
 6. press 0 to exit
 -----------------------------------------------
-0
-Exited successfully
-TESTCASE 4
-enter the no of companies
-1
-Enter current stock price of the company 1
-10.25
-Whether company's stock price rose today compare to yesterday?
+0\
+Exited successfully\
+#TESTCASE 4
+enter the no of companies\
+1\
+Enter current stock price of the company 1\
+10.25\
+Whether company's stock price rose today compare to yesterday?\
 false
 -----------------------------------------------
 Enter the operation that you want to perform
@@ -238,7 +237,7 @@ Enter the operation that you want to perform
 5. Search a specific stock price
 6. press 0 to exit
 -----------------------------------------------
-4
+4\
 Total no of companies whose stock price declined today : 1
 -----------------------------------------------
 Enter the operation that you want to perform
@@ -249,9 +248,9 @@ Enter the operation that you want to perform
 5. Search a specific stock price
 6. press 0 to exit
 -----------------------------------------------
-5
-enter the key value
-10
+5\
+enter the key value\
+10\
 Value not found
 -----------------------------------------------
 Enter the operation that you want to perform
@@ -262,5 +261,5 @@ Enter the operation that you want to perform
 5. Search a specific stock price
 6. press 0 to exit
 -----------------------------------------------
-0
+0\
 Exited successfully
