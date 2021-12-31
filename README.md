@@ -20,7 +20,7 @@ USER can perform the following operations in the application:
 5. Search a specific stock price //it will only display whether the stock price is present or not.
 Note: The time complexity(average, best, worst) of the sorting function used should not be more than O(nlogn).\
 Consider the following test cases/ sample output\
-#TESTCASE 1
+#############TESTCASE 1
 enter the no of companies\
 1\
 Enter current stock price of the company 1\
@@ -99,8 +99,8 @@ Enter the operation that you want to perform
 Exited successfully\
 Explanation: User has given input of only 1 company and its share rose today compared to yesterday as the user has given input true.\
 Hence, Total no of companies whose stock price rose today : 1
-Total no of companies whose stock price declined today : 0
-#TESTCASE 2
+Total no of companies whose stock price declined today : 0\
+################TESTCASE 2
 enter the no of companies\
 2\
 Enter current stock price of the company 1\
@@ -134,9 +134,9 @@ Enter the operation that you want to perform
 0\
 Exited successfully\
 Explanation : there is only 1 company among two companies whose stock price rose today (i.e company’s 2 input was true)
-Hence, Total no of companies whose stock price rose today : 1
+Hence, Total no of companies whose stock price rose today : 1\
  
-#TESTCASE 3
+##############TESTCASE 3
 enter the no of companies\
 3\
 Enter current stock price of the company 1\
@@ -221,7 +221,7 @@ Enter the operation that you want to perform
 -----------------------------------------------
 0\
 Exited successfully\
-#TESTCASE 4
+#############TESTCASE 4
 enter the no of companies\
 1\
 Enter current stock price of the company 1\
