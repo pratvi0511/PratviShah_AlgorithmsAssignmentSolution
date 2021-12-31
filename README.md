@@ -20,7 +20,7 @@ USER can perform the following operations in the application:
 5. Search a specific stock price //it will only display whether the stock price is present or not.
 Note: The time complexity(average, best, worst) of the sorting function used should not be more than O(nlogn).\
 Consider the following test cases/ sample output\
-#############TESTCASE 1
+>TESTCASE 1
 enter the no of companies\
 1\
 Enter current stock price of the company 1\
